@@ -3,3 +3,17 @@ This repository will include some cvs files of scanned targets, tips and explana
 
 Everybody who wants to help can do it by sending the PR
 
+
+#### Must learn
+• NMAP
+• SQLMAP
+• CENSYS
+• SHODAN
+• COBALT STRIKE
+• MALTEGO
+• VULNERS Vulns and exploit DB
+• GOOGLE_DORKS
+• OBSERVATORY
+• ХSSTRIKE xss scanner and vulntester
+• VIRUSTOTAL
+
