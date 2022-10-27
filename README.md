@@ -29,3 +29,32 @@ Everybody who wants to help can do it by sending the PR
 • VIRUSTOTAL
 
 
+#### Preparing data to run slowloris
+
+Spiderfoot should run and gather info on target before.
+
+Go to Browse/IPv6 Address and export is as csv file.
+
+In the terminal
+
+ 
+```
+cut -d "," -f6 SpiderFoot-5.csv > bcs_ru_ipv6.txt
+```
+
+Next, remove duplicates
+
+```
+sort bcs_ru_ipv6.txt | uniq -u | > bcs_ru_ipv6_no_dups.txt
+```
+
+And then run nmap with slowloris
+
+```
+cat bcs_ru_ipv6_no_dups.txt | xargs nmap -Pn --script http-slowloris-check -6 
+```
+
+
+
+
+
