@@ -1,0 +1,88 @@
+GET https://demozone.cloud.rt.ru HTTP/1.1
+Host: demozone.cloud.rt.ru
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+Pragma: no-cache
+Cache-Control: no-cache
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+Set-Cookie: .AspNetCore.Antiforgery.dcQBaIwrM90=CfDJ8Gl5KfOnoEJJoexjcXIePLu9dwRz9BrVqbHgjhu6R3ZOR1Pk8IvsNpDjkUPjQleRMwmXkn-YgFOM0keUegv8ox4-IoGOQWMiMfIa50sf802c7fD54xXSAfNps0Kqq9uS0Qj-4mKuJiufdnJLMTEH7RQ; path=/; samesite=strict; httponly
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: ASP.NET
+Date: Fri, 04 Nov 2022 14:35:38 GMT
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>&#x410;&#x432;&#x442;&#x43E;&#x440;&#x438;&#x437;&#x430;&#x446;&#x438;&#x44F;</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/css/site.css" />
+</head>
+<body>
+
+            
+<section class="vh-100">
+    <div class="container-ac h-100">
+        <div class="row d-flex align-items-center justify-content-center h-100">
+            <div class="col-6 auth">
+                <div class="auth__form">
+                    <form method="post" class="form-ac" action="/">
+                        <h3>Авторизация</h3>
+
+                        <!-- Login input -->
+                        <div class="form__box">
+                            <input type="text" class="form__input" placeholder="Логин" autocomplete="off" data-val="true" data-val-required="&#x41E;&#x431;&#x44F;&#x437;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x43E;&#x435; &#x43F;&#x43E;&#x43B;&#x435;" id="UserName" name="UserName" value="">
+                            <label class="form__label" for="UserName">&#x41B;&#x43E;&#x433;&#x438;&#x43D;</label>
+                        </div>
+                        <span class="text-danger field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span>
+
+                        <!-- Password input -->
+                        <div class="form__box">
+                            <input type="password" class="form__input" placeholder="Пароль" autocomplete="off" data-val="true" data-val-required="&#x41E;&#x431;&#x44F;&#x437;&#x430;&#x442;&#x435;&#x43B;&#x44C;&#x43D;&#x43E;&#x435; &#x43F;&#x43E;&#x43B;&#x435;" id="Password" name="Password">
+                            <label class="form__label" for="Password">&#x41F;&#x430;&#x440;&#x43E;&#x43B;&#x44C;</label>
+                        </div>
+                        <span class="text-danger field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+
+
+                        <div class="d-flex justify-content-around align-items-center mb-1" style="width:360px; margin-top:4px;">
+                            <!-- Checkbox -->
+                            <a href="/Account/ForgotPassword">Забыли пароль?</a>
+                        </div>
+
+                        <div class="text-danger validation-summary-valid" data-valmsg-summary="true"><ul><li style="display:none"></li>
+</ul></div>
+
+                        <!-- Submit button -->
+                        <button type="submit" class="btn btn-primary btn-lg btn-block btn__login">Войти</button>
+
+                        <a class="btn btn-primary btn-lg btn-block btn__signin" role="button" href="/Account/Register">
+                            Зарегистрироваться
+                        </a>
+
+                    <input name="__RequestVerificationToken" type="hidden" value="CfDJ8Gl5KfOnoEJJoexjcXIePLti4TTdb-d58vIGw6hUoA4Q30xItyjKvUaWKkVi_hs1kvx_PQafWiDuruWjBpJcAsZvdLZ0q0iT-gB2DdMJW78Ymtvf75XDqnPiPnbH5J9hl8rMvID0pGTHJ1lv7wuhD2w" /></form>
+                </div>
+
+            </div>
+            <div class="col-6 d-flex justify-content-end auth__box">
+                <div class="auth__image__container">
+                    <img src="/img/auth.PNG" alt="" class="auth__image" />
+                </div>
+
+                <div class="quote__container">
+                    <span class="quote__text">Место где ты можешь предложить свою помощь, или попросить ее у близкого</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+    <script src="/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    
+</body>
+</html>

@@ -1,0 +1,34 @@
+Processed,Method,URI,Flags
+true,GET,https://demozone.cloud.rt.ru,Seed
+true,GET,https://demozone.cloud.rt.ru/robots.txt,Seed
+true,GET,https://demozone.cloud.rt.ru/sitemap.xml,Seed
+true,GET,https://demozone.cloud.rt.ru/Account/ForgotPassword,
+true,GET,https://demozone.cloud.rt.ru/Account/Register,
+true,GET,https://demozone.cloud.rt.ru/lib/bootstrap/dist/css/bootstrap.min.css,
+true,GET,https://demozone.cloud.rt.ru/css/site.css,
+true,GET,https://demozone.cloud.rt.ru/lib/jquery/dist/jquery.min.js,
+true,GET,https://demozone.cloud.rt.ru/lib/bootstrap/dist/js/bootstrap.bundle.min.js,
+true,GET,https://demozone.cloud.rt.ru/img/auth.PNG,
+true,POST,https://demozone.cloud.rt.ru/,
+true,GET,https://demozone.cloud.rt.ru/Home/Index,
+true,GET,https://demozone.cloud.rt.ru/css/main/style.css,
+true,GET,https://demozone.cloud.rt.ru/css/main/reset.css,
+true,POST,https://demozone.cloud.rt.ru/Account/ForgotPassword,
+true,POST,https://demozone.cloud.rt.ru/Account/Register,
+false,GET,https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification,Out of Scope
+false,GET,https://getbootstrap.com/,Out of Scope
+false,GET,https://github.com/twbs/bootstrap/blob/master/LICENSE,Out of Scope
+false,GET,http://www.w3.org/2000/svg,Out of Scope
+false,GET,https://github.com/twbs/bootstrap/graphs/contributors,Out of Scope
+false,GET,https://popper.js.org/,Out of Scope
+true,POST,https://demozone.cloud.rt.ru/,
+true,GET,https://demozone.cloud.rt.ru/Account/Login?ReturnUrl=%2FHome%2FIndex,
+false,GET,http://meyerweb.com/eric/tools/css/reset/,Out of Scope
+true,POST,https://demozone.cloud.rt.ru/Account/Register,
+true,POST,https://demozone.cloud.rt.ru/,
+true,POST,https://demozone.cloud.rt.ru/?returnurl=%2FHome%2FIndex,
+true,POST,https://demozone.cloud.rt.ru/Account/Register,
+true,POST,https://demozone.cloud.rt.ru/,
+true,POST,https://demozone.cloud.rt.ru/?returnurl=%2FHome%2FIndex,
+true,POST,https://demozone.cloud.rt.ru/Account/Register,
+true,POST,https://demozone.cloud.rt.ru/,

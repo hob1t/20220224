@@ -1,0 +1,8 @@
+Updated,Type,Module,Source,F/P,Data
+2022-11-03 07:05:08,DNS_SRV,sfp_dnscommonsrv,dv.rt.ru,0,_sip._tls.dv.rt.ru
+2022-11-04 12:38:25,DNS_SRV,sfp_dnscommonsrv,nw.rt.ru,0,_sip._tls.nw.rt.ru
+2022-11-02 19:40:36,DNS_SRV,sfp_dnscommonsrv,rt.ru,0,_sip._tls.rt.ru
+2022-11-04 13:16:17,DNS_SRV,sfp_dnscommonsrv,volga.rt.ru,0,_sip._tls.volga.rt.ru
+2022-11-04 19:14:55,DNS_SRV,sfp_dnscommonsrv,moscow.rt.ru,0,_sip._udp.moscow.rt.ru
+2022-11-04 12:38:26,DNS_SRV,sfp_dnscommonsrv,nw.rt.ru,0,_xmpp-server._tcp.nw.rt.ru
+2022-11-04 13:16:18,DNS_SRV,sfp_dnscommonsrv,volga.rt.ru,0,_xmpp-server._tcp.volga.rt.ru

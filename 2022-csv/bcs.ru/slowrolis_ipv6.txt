@@ -1,0 +1,167 @@
+::ffff:77.233.184.42
+PORT    STATE SERVICE
+443/tcp open  https
+| http-slowloris-check:
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|
+|     Disclosure date: 2009-09-17
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+|_      http://ha.ckers.org/slowloris/
+
+::ffff:109.194.39.44
+Nmap scan report for ::ffff:109.194.39.44
+Host is up (0.16s latency).
+Not shown: 855 closed tcp ports (conn-refused), 144 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+443/tcp open  https
+| http-slowloris-check:
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|
+|     Disclosure date: 2009-09-17
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+|_      http://ha.ckers.org/slowloris/
+
+
+::ffff:178.176.115.250
+Nmap scan report for ::ffff:178.176.115.250
+Host is up (0.16s latency).
+Not shown: 903 closed tcp ports (conn-refused), 96 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+443/tcp open  https
+| http-slowloris-check:
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|
+|     Disclosure date: 2009-09-17
+|     References:
+|       http://ha.ckers.org/slowloris/
+|_      https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+
+::ffff:178.72.120.50 kem.bcs.ru
+Nmap scan report for ::ffff:178.72.120.50
+Host is up (0.18s latency).
+Not shown: 903 closed tcp ports (conn-refused), 96 filtered tcp ports (no-response)
+PORT    STATE SERVICE
+443/tcp open  https
+| http-slowloris-check:
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|
+|     Disclosure date: 2009-09-17
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+|_      http://ha.ckers.org/slowloris/
+
+
+::ffff:185.169.155.156 bcs.ru
+Nmap scan report for ::ffff:185.169.155.156
+Host is up (0.085s latency).
+Not shown: 992 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+80/tcp    open   http
+| http-slowloris-check:
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|
+|     Disclosure date: 2009-09-17
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+|_      http://ha.ckers.org/slowloris/
+143/tcp   closed imap
+443/tcp   open   https
+587/tcp   closed submission
+2222/tcp  closed EtherNetIP-1
+7999/tcp  closed irdmi2
+8193/tcp  closed sophos
+60443/tcp closed unknown
+
+
+::ffff:185.169.155.160 online.bcs.ru
+Nmap scan report for ::ffff:185.169.155.160
+Host is up (0.085s latency).
+Not shown: 992 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+80/tcp    open   http
+| http-slowloris-check:
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|
+|     Disclosure date: 2009-09-17
+|     References:
+|       http://ha.ckers.org/slowloris/
+|_      https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+143/tcp   closed imap
+443/tcp   open   https
+587/tcp   closed submission
+2222/tcp  closed EtherNetIP-1
+7999/tcp  closed irdmi2
+8193/tcp  closed sophos
+60443/tcp closed unknown
+
+Nmap scan report for ::ffff:185.169.155.90 api2.bcs.ru
+Host is up (0.084s latency).
+Not shown: 992 filtered tcp ports (no-response)
+PORT      STATE  SERVICE
+80/tcp    open   http
+| http-slowloris-check: 
+|   VULNERABLE:
+|   Slowloris DOS attack
+|     State: LIKELY VULNERABLE
+|     IDs:  CVE:CVE-2007-6750
+|       Slowloris tries to keep many connections to the target web server open and hold
+|       them open as long as possible.  It accomplishes this by opening connections to
+|       the target web server and sending a partial request. By doing so, it starves
+|       the http server's resources causing Denial Of Service.
+|       
+|     Disclosure date: 2009-09-17
+|     References:
+|       https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2007-6750
+|_      http://ha.ckers.org/slowloris/
+143/tcp   closed imap
+443/tcp   open   https
+587/tcp   closed submission
+2222/tcp  closed EtherNetIP-1
+7999/tcp  closed irdmi2
+8193/tcp  closed sophos
+60443/tcp closed unknown
+

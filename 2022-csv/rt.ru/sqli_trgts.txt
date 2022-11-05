@@ -1,0 +1,1 @@
+https://passport.rt.ru/auth/realms/b2b/login-actions/authenticate?execution=93a3605a-23f7-4de2-aa9b-8aaef7f72fcc&client_id=lk_8800&tab_id=SEf-TQ4QY7M
