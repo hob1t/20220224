@@ -1,0 +1,168 @@
+Updated,Type,Module,Source,F/P,Data
+2022-11-03 11:50:03,DOMAIN_WHOIS,sfp_whois,a-3.ru,0,"% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        A-3.RU
+nserver:       dns1.yandex.ru.
+nserver:       dns2.yandex.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           OOO ""A 3""
+taxpayer-id:   7702726396
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2005-09-15T20:00:00Z
+paid-till:     2023-09-15T21:00:00Z
+free-date:     2023-10-17
+source:        TCI
+
+Last updated on 2022-11-03T09:46:30Z
+
+"
+2022-11-03 11:54:44,DOMAIN_WHOIS,sfp_whois,gorny.ru,0,"% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        GORNY.RU
+nserver:       ns.nsk.su.
+nserver:       ns.risp.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Gorno-Altaisky branch of OJSC ""Sibirtelekom""
+taxpayer-id:   5407127828
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       1997-07-30T13:45:14Z
+paid-till:     2023-07-31T21:00:00Z
+free-date:     2023-09-01
+source:        TCI
+
+Last updated on 2022-11-03T09:51:30Z
+
+"
+2022-11-03 11:54:59,DOMAIN_WHOIS,sfp_whois,gtmail.ru,0,"% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        GTMAIL.RU
+nserver:       ns2.gthost.ru.
+nserver:       ns.gthost.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Company ""Globus-Telecom""
+taxpayer-id:   7715227394
+registrar:     REGRU-RU
+admin-contact: http://www.reg.ru/whois/admin_contact
+created:       2005-11-29T21:00:00Z
+paid-till:     2023-11-29T21:00:00Z
+free-date:     2023-12-31
+source:        TCI
+
+Last updated on 2022-11-03T09:51:30Z
+
+"
+2022-11-03 11:53:45,DOMAIN_WHOIS,sfp_whois,orel.ru,0,"% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        OREL.RU
+nserver:       ns1.orel.ru. 95.107.48.4
+nserver:       ns2.orel.ru. 95.107.47.4
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           PJSC ""Rostelekom""
+taxpayer-id:   7707049388
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       1998-10-26T16:24:37Z
+paid-till:     2023-10-31T21:00:00Z
+free-date:     2023-12-02
+source:        TCI
+
+Last updated on 2022-11-03T09:51:30Z
+
+"
+2022-11-03 11:53:19,DOMAIN_WHOIS,sfp_whois,reg.ru,0,"% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        REG.RU
+nserver:       ns1.reg.ru. 176.99.13.11, 176.99.13.13, 176.99.13.15, 176.99.13.17, 194.58.117.11, 194.58.117.13, 194.58.117.15, 194.58.117.17, 194.67.73.73, 194.67.73.74, 2a00:f940:4::47
+nserver:       ns2.reg.ru. 176.99.13.12, 176.99.13.14, 176.99.13.16, 176.99.13.18, 194.58.117.12, 194.58.117.14, 194.58.117.16, 194.58.117.18, 194.67.73.75, 194.67.73.76, 2a00:f940:5::190
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Domain name registrar REG.RU Ltd.
+taxpayer-id:   7733568767
+registrar:     REGRU-RU
+admin-contact: http://www.reg.ru/whois/admin_contact
+created:       2005-10-31T21:00:00Z
+paid-till:     2023-10-31T21:00:00Z
+free-date:     2023-12-02
+source:        TCI
+
+Last updated on 2022-11-03T09:51:30Z
+
+"
+2022-11-02 19:43:48,DOMAIN_WHOIS,sfp_whois,rt.ru,0,"% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        RT.RU
+nserver:       ns1.rostelecom.ru.
+nserver:       ns2.rostelecom.ru.
+nserver:       ns4-cloud.nic.ru.
+nserver:       ns4-l2.nic.ru.
+nserver:       ns8-cloud.nic.ru.
+nserver:       ns8-l2.nic.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Public Joint Stock Company ""Rostelecom""
+taxpayer-id:   7707049388
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       1997-01-14T17:30:41Z
+paid-till:     2023-01-31T21:00:00Z
+free-date:     2023-03-04
+source:        TCI
+
+Last updated on 2022-11-02T17:41:30Z
+
+"
+2022-11-03 11:40:28,DOMAIN_WHOIS,sfp_whois,sendsay.ru,0,"% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        SENDSAY.RU
+nserver:       ns194a.iprojects.ru.
+nserver:       ns194b.iprojects.ru.
+nserver:       ns195a.iprojects.ru.
+nserver:       ns195b.iprojects.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           JSC ""Internet Projects""
+taxpayer-id:   7811090248
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       2014-03-22T06:55:15Z
+paid-till:     2023-03-22T07:55:15Z
+free-date:     2023-04-22
+source:        TCI
+
+Last updated on 2022-11-03T09:36:30Z
+
+"
+2022-11-09 07:37:33,DOMAIN_WHOIS,sfp_whois,sibindustry.ru,0,"% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        SIBINDUSTRY.RU
+nserver:       ns2.sibindustry.ru. 81.1.254.212
+nserver:       ns4.nic.ru.
+nserver:       ns.sibindustry.ru. 81.1.254.219
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           Innovative business technologies Ltd
+taxpayer-id:   5505210312
+registrar:     R01-RU
+admin-contact: https://partner.r01.ru/contact_admin.khtml
+created:       2000-08-10T20:00:00Z
+paid-till:     2023-08-10T21:00:00Z
+free-date:     2023-09-11
+source:        TCI
+
+Last updated on 2022-11-09T05:36:30Z
+
+"

@@ -1,0 +1,8 @@
+Updated,Type,Module,Source,F/P,Data
+2022-11-02 19:38:53,CLOUD_STORAGE_BUCKET,sfp_azureblobstorage,rt.ru,0,https://rtdata.blob.core.windows.net
+2022-11-02 19:38:53,CLOUD_STORAGE_BUCKET,sfp_azureblobstorage,rt.ru,0,https://rtdev.blob.core.windows.net
+2022-11-02 19:38:53,CLOUD_STORAGE_BUCKET,sfp_azureblobstorage,rt.ru,0,https://rtfiles.blob.core.windows.net
+2022-11-02 19:54:37,CLOUD_STORAGE_BUCKET,sfp_s3bucket,rt.ru,0,https://rtmedia.s3-external-1.amazonaws.com
+2022-11-02 19:54:37,CLOUD_STORAGE_BUCKET,sfp_s3bucket,rt.ru,0,https://rtmedia.s3.amazonaws.com
+2022-11-02 19:38:53,CLOUD_STORAGE_BUCKET,sfp_azureblobstorage,rt.ru,0,https://rttest.blob.core.windows.net
+2022-11-02 19:38:53,CLOUD_STORAGE_BUCKET,sfp_azureblobstorage,rt.ru,0,https://rtweb.blob.core.windows.net

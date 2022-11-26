@@ -1,0 +1,16 @@
+Updated,Type,Module,Source,F/P,Data
+2022-11-05 16:01:25,DNS_SRV,sfp_dnscommonsrv,center.rt.ru,0,_sip._tls.center.rt.ru
+2022-11-03 07:05:08,DNS_SRV,sfp_dnscommonsrv,dv.rt.ru,0,_sip._tls.dv.rt.ru
+2022-11-04 12:38:25,DNS_SRV,sfp_dnscommonsrv,nw.rt.ru,0,_sip._tls.nw.rt.ru
+2022-11-02 19:40:36,DNS_SRV,sfp_dnscommonsrv,rt.ru,0,_sip._tls.rt.ru
+2022-11-05 16:00:45,DNS_SRV,sfp_dnscommonsrv,sibir.rt.ru,0,_sip._tls.sibir.rt.ru
+2022-11-05 16:01:50,DNS_SRV,sfp_dnscommonsrv,south.rt.ru,0,_sip._tls.south.rt.ru
+2022-11-05 16:01:07,DNS_SRV,sfp_dnscommonsrv,ural.rt.ru,0,_sip._tls.ural.rt.ru
+2022-11-04 13:16:17,DNS_SRV,sfp_dnscommonsrv,volga.rt.ru,0,_sip._tls.volga.rt.ru
+2022-11-04 19:14:55,DNS_SRV,sfp_dnscommonsrv,moscow.rt.ru,0,_sip._udp.moscow.rt.ru
+2022-11-05 16:01:27,DNS_SRV,sfp_dnscommonsrv,center.rt.ru,0,_xmpp-server._tcp.center.rt.ru
+2022-11-04 12:38:26,DNS_SRV,sfp_dnscommonsrv,nw.rt.ru,0,_xmpp-server._tcp.nw.rt.ru
+2022-11-05 16:00:47,DNS_SRV,sfp_dnscommonsrv,sibir.rt.ru,0,_xmpp-server._tcp.sibir.rt.ru
+2022-11-05 16:01:53,DNS_SRV,sfp_dnscommonsrv,south.rt.ru,0,_xmpp-server._tcp.south.rt.ru
+2022-11-05 16:01:09,DNS_SRV,sfp_dnscommonsrv,ural.rt.ru,0,_xmpp-server._tcp.ural.rt.ru
+2022-11-04 13:16:18,DNS_SRV,sfp_dnscommonsrv,volga.rt.ru,0,_xmpp-server._tcp.volga.rt.ru

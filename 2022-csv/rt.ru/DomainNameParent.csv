@@ -1,0 +1,11 @@
+Updated,Type,Module,Source,F/P,Data
+2022-11-03 07:24:27,DOMAIN_NAME_PARENT,sfp_dnsresolve,prod.a-3.ru,0,a-3.ru
+2022-11-03 10:37:10,DOMAIN_NAME_PARENT,sfp_dnsresolve,test.gorny.ru,0,gorny.ru
+2022-11-03 10:41:19,DOMAIN_NAME_PARENT,sfp_dnsresolve,mx.gtmail.ru,0,gtmail.ru
+2022-11-09 19:20:35,DOMAIN_NAME_PARENT,sfp_dnsresolve,cdn.ngenix.net,0,ngenix.net
+2022-11-03 10:29:44,DOMAIN_NAME_PARENT,sfp_dnsresolve,speedtest.orel.ru,0,orel.ru
+2022-11-03 10:21:28,DOMAIN_NAME_PARENT,sfp_dnsresolve,server26.hosting.reg.ru,0,reg.ru
+2022-11-05 18:03:00,DOMAIN_NAME_PARENT,sfp_dnsresolve,link.sendsay.com,0,sendsay.com
+2022-11-03 06:45:50,DOMAIN_NAME_PARENT,sfp_dnsresolve,unsub.sendsay.ru,0,sendsay.ru
+2022-11-09 07:37:30,DOMAIN_NAME_PARENT,sfp_dnsresolve,cwserver.sibindustry.ru,0,sibindustry.ru
+2022-11-05 15:23:00,DOMAIN_NAME_PARENT,sfp_dnsresolve,kedi240.sndsy.ru,0,sndsy.ru

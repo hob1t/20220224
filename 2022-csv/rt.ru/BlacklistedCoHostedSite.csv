@@ -1,0 +1,15 @@
+Updated,Type,Module,Source,F/P,Data
+2022-11-03 09:42:49,BLACKLISTED_COHOST,sfp_cleanbrowsing,0025909a4dbe.katerinabugakova.com,0,CleanBrowsing DNS - Family [0025909a4dbe.katerinabugakova.com]
+2022-11-07 22:21:00,BLACKLISTED_COHOST,sfp_cleanbrowsing,192.168.1.1,0,CleanBrowsing DNS - Security [192.168.1.1]
+2022-11-03 10:58:03,BLACKLISTED_COHOST,sfp_cloudflaredns,tudnft.space,0,CloudFlare - Malware [tudnft.space]
+2022-11-03 10:17:36,BLACKLISTED_COHOST,sfp_comodo,01.investuprav.ru,0,Comodo Secure DNS [01.investuprav.ru]
+2022-11-03 10:20:18,BLACKLISTED_COHOST,sfp_comodo,04.mubint.ru,0,Comodo Secure DNS [04.mubint.ru]
+2022-11-07 22:21:01,BLACKLISTED_COHOST,sfp_comodo,192.168.1.1,0,Comodo Secure DNS [192.168.1.1]
+2022-11-03 07:05:34,BLACKLISTED_COHOST,sfp_comodo,instmaski.ru,0,Comodo Secure DNS [instmaski.ru]
+2022-11-03 09:46:30,BLACKLISTED_COHOST,sfp_dns_for_family,0025909a4dbe.katerinabugakova.com,0,DNS for Family [0025909a4dbe.katerinabugakova.com]
+2022-11-03 11:54:56,BLACKLISTED_COHOST,sfp_dns_for_family,cpp-kaspersky.com,0,DNS for Family [cpp-kaspersky.com]
+2022-11-04 16:19:10,BLACKLISTED_COHOST,sfp_dns_for_family,hosting.reg.ru,0,DNS for Family [hosting.reg.ru]
+2022-11-03 11:54:39,BLACKLISTED_COHOST,sfp_dns_for_family,www.cpp-kaspersky.com,0,DNS for Family [www.cpp-kaspersky.com]
+2022-11-03 11:25:34,BLACKLISTED_COHOST,sfp_opendns,tudnft.space,0,OpenDNS - Phishing [tudnft.space]
+2022-11-07 22:21:01,BLACKLISTED_COHOST,sfp_quad9,192.168.1.1,0,"Quad9 [192.168.1.1]
+https://quad9.net/result/?url=192.168.1.1"

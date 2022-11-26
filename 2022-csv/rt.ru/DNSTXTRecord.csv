@@ -1,0 +1,79 @@
+Updated,Type,Module,Source,F/P,Data
+2022-11-04 11:29:36,DNS_TEXT,sfp_dnsraw,a-3.ru,0,2019102207245147y1v5zakj61t9nivznhyy0ijnjhtlcj34ma0iqi81pllsmgmn
+2022-11-03 23:56:59,DNS_TEXT,sfp_dnsraw,camera.rt.ru,0,2bb33f5b66a7876e22971b88a2376eb1
+2022-11-04 07:30:33,DNS_TEXT,sfp_dnsraw,smartoffice.rt.ru,0,4b531b637abd3a73e2b3ace706cb7787
+2022-11-04 11:17:46,DNS_TEXT,sfp_dnsraw,bio.rt.ru,0,95f7d94a442ef274f3114dd613303d50
+2022-11-05 15:59:43,DNS_TEXT,sfp_dnsraw,ural.rt.ru,0,MS=DB39415D9A275142332DB8B54115F1A6D3589155
+2022-11-03 20:34:46,DNS_TEXT,sfp_dnsraw,covid-19.dv.rt.ru,0,MS=ms81251711
+2022-11-03 20:37:46,DNS_TEXT,sfp_dnsraw,mail.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:47:42,DNS_TEXT,sfp_dnsraw,uljuqsqr.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:47:57,DNS_TEXT,sfp_dnsraw,hlnjoxfhwnqblv.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:48:19,DNS_TEXT,sfp_dnsraw,_.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:48:34,DNS_TEXT,sfp_dnsraw,futaaflzjepqdip.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:49:55,DNS_TEXT,sfp_dnsraw,pzupvmmuaxfx.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:51:45,DNS_TEXT,sfp_dnsraw,jnoilysqdbw.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:52:40,DNS_TEXT,sfp_dnsraw,ymugniyxzrosuki.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:52:49,DNS_TEXT,sfp_dnsraw,nqwbntjbhacu.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:52:59,DNS_TEXT,sfp_dnsraw,oixugezqkpts.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:53:12,DNS_TEXT,sfp_dnsraw,eyjduzdpfqae.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:53:30,DNS_TEXT,sfp_dnsraw,wsxcphlhpaf.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:53:51,DNS_TEXT,sfp_dnsraw,tlbcrvdejqo.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:53:54,DNS_TEXT,sfp_dnsraw,dcdqfoarb.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:53:57,DNS_TEXT,sfp_dnsraw,mdvxrnwrnv.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:54:02,DNS_TEXT,sfp_dnsraw,tekwkukwhyr.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:54:45,DNS_TEXT,sfp_dnsraw,rjlebnzagh.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:55:03,DNS_TEXT,sfp_dnsraw,lncziyuyaflh.dv.rt.ru,0,MS=ms81251711
+2022-11-04 16:55:46,DNS_TEXT,sfp_dnsraw,qlvdnyfnxb.dv.rt.ru,0,MS=ms81251711
+2022-11-03 17:29:00,DNS_TEXT,sfp_dnsraw,sendsay.ru,0,_globalsign-domain-verification=RakdglgAHoDsEtF_v_-sVNSCozOajlh2CiZQQX0EuZ
+2022-11-03 17:29:00,DNS_TEXT,sfp_dnsraw,sendsay.ru,0,google-site-verification=Xuvrcg6MfW2Uqf7YuUiCrdHVvwW5DOOcKlDhKQk3PyE
+2022-11-03 17:29:00,DNS_TEXT,sfp_dnsraw,sendsay.ru,0,google-site-verification=gJ89nPBX9SSwSVDWAcZTQLWRR2YPw2aBHu7F9Irj7Iw
+2022-11-03 23:56:59,DNS_TEXT,sfp_dnsraw,camera.rt.ru,0,google-site-verification=vW0EQL6-CC9Jv_J9c8aNOmdnN_18o8uwaQ1eFdA588E
+2022-11-07 07:47:01,DNS_TEXT,sfp_dnsraw,images.iptv.rt.ru,0,ngenix-verification=aca4b4b2773af9165ba63e0975087e5b
+2022-11-07 07:47:51,DNS_TEXT,sfp_dnsraw,static.iptv.rt.ru,0,ngenix-verification=aca4b4b2773af9165ba63e0975087e5b
+2022-11-09 19:52:40,DNS_TEXT,sfp_dnsraw,tnop12.rt.ru,0,v=spf1
+2022-11-04 16:32:14,DNS_TEXT,sfp_dnsraw,gtmail.ru,0,v=spf1 +a +mx +a:pl.gthost.ru -all
+2022-11-05 15:59:32,DNS_TEXT,sfp_dnsraw,sibir.rt.ru,0,v=spf1 +a +mx include:rt.ru include:dv.rt.ru include:spf.unisender.com -all
+2022-11-03 17:29:00,DNS_TEXT,sfp_dnsraw,sendsay.ru,0,v=spf1 +ip4:81.23.119.198/32 +ip4:139.45.249.2/29 +ip4:212.46.253.178/32 include:spf.sendsay.ru -all
+2022-11-06 17:48:52,DNS_TEXT,sfp_dnsraw,smi.rt.ru,0,v=spf1 a mx ip4:195.19.97.139 ip4:195.19.96.102 ~all
+2022-11-03 23:56:59,DNS_TEXT,sfp_dnsraw,camera.rt.ru,0,v=spf1 ip4:185.41.113.133 ip4:185.41.113.131 ip4:185.41.113.135 ip4:185.41.113.98 ip4:185.41.113.97 ip4:188.254.7.128 ip4:94.25.103.57 mx -all
+2022-11-03 21:21:29,DNS_TEXT,sfp_dnsraw,itv.rt.ru,0,v=spf1 ip4:188.254.124.128/26 ip4:85.94.1.12/30 ip4:37.204.139.226/31 ip4:178.45.252.34/31 ip4:212.220.64.148/31 ip4:213.158.8.140/30 ip4:46.61.136.98/31 ip4:217.65.91.58/31 ip4:212.122.11.18/31 ~all
+2022-11-03 21:22:15,DNS_TEXT,sfp_dnsraw,lab.rt.ru,0,v=spf1 ip4:188.254.32.250 ~all
+2022-11-03 23:00:46,DNS_TEXT,sfp_dnsraw,mail.lab.rt.ru,0,v=spf1 ip4:188.254.32.250 ~all
+2022-11-04 11:01:35,DNS_TEXT,sfp_dnsraw,camera-p1.cloud.rt.ru,0,v=spf1 ip4:188.254.7.128 ip4:94.25.103.57 mx -all
+2022-11-06 07:20:36,DNS_TEXT,sfp_dnsraw,login.rt.ru,0,v=spf1 ip4:194.176.96.106 ~all
+2022-11-04 07:32:15,DNS_TEXT,sfp_dnsraw,nw.rt.ru,0,v=spf1 ip4:213.158.0.51 ip4:213.158.0.34 ip4:213.158.0.42 ip4:213.158.0.10 ip4:178.67.251.219 ip4:178.67.251.220 mx include:rt.ru -all
+2022-11-03 21:12:20,DNS_TEXT,sfp_dnsraw,www.market.rt.ru,0,v=spf1 ip4:217.21.218.192/28 mx -all
+2022-11-03 21:12:53,DNS_TEXT,sfp_dnsraw,market.rt.ru,0,v=spf1 ip4:217.21.218.192/28 mx -all
+2022-11-04 11:07:25,DNS_TEXT,sfp_dnsraw,volga.rt.ru,0,v=spf1 ip4:217.9.147.169 include:rt.ru a:tv.volga.rt.ru -all
+2022-11-04 11:29:36,DNS_TEXT,sfp_dnsraw,a-3.ru,0,v=spf1 ip4:81.177.7.135 ip4:213.59.2.50 include:spf.mandrillapp.com redirect=_spf.yandex.ru
+2022-11-04 11:29:24,DNS_TEXT,sfp_dnsraw,prod.a-3.ru,0,v=spf1 ip4:81.177.7.135 ~all
+2022-11-05 16:00:21,DNS_TEXT,sfp_dnsraw,south.rt.ru,0,v=spf1 ip4:83.239.44.204 mx include:rt.ru -all
+2022-11-04 10:43:48,DNS_TEXT,sfp_dnsraw,cloudpbx.rt.ru,0,v=spf1 ip4:95.167.42.109 mx -all
+2022-11-04 07:30:33,DNS_TEXT,sfp_dnsraw,smartoffice.rt.ru,0,v=spf1 mx -all
+2022-11-04 11:17:46,DNS_TEXT,sfp_dnsraw,bio.rt.ru,0,v=spf1 mx -all
+2022-11-05 15:59:59,DNS_TEXT,sfp_dnsraw,center.rt.ru,0,v=spf1 mx a:mail218.rt.ru a:mail220.rt.ru a:mail201.rt.ru a:mail12.rt.ru ip4:87.226.159.202 ip4:87.226.159.201 ip4:87.226.159.15 ip4:87.226.162.67 ip4:195.166.185.239 ip4:77.51.250.72 -all
+2022-11-05 18:35:45,DNS_TEXT,sfp_dnsraw,service.center.rt.ru,0,v=spf1 mx a:mx3.service.centertelecom.ru a:mx3.service.center.rt.ru ip4:77.51.250.83 ip4:77.51.250.68/27 ~all
+2022-11-03 20:34:46,DNS_TEXT,sfp_dnsraw,covid-19.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-03 20:37:46,DNS_TEXT,sfp_dnsraw,mail.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:47:42,DNS_TEXT,sfp_dnsraw,uljuqsqr.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:47:57,DNS_TEXT,sfp_dnsraw,hlnjoxfhwnqblv.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:48:19,DNS_TEXT,sfp_dnsraw,_.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:48:34,DNS_TEXT,sfp_dnsraw,futaaflzjepqdip.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:49:55,DNS_TEXT,sfp_dnsraw,pzupvmmuaxfx.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:51:45,DNS_TEXT,sfp_dnsraw,jnoilysqdbw.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:52:40,DNS_TEXT,sfp_dnsraw,ymugniyxzrosuki.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:52:49,DNS_TEXT,sfp_dnsraw,nqwbntjbhacu.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:52:59,DNS_TEXT,sfp_dnsraw,oixugezqkpts.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:53:12,DNS_TEXT,sfp_dnsraw,eyjduzdpfqae.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:53:30,DNS_TEXT,sfp_dnsraw,wsxcphlhpaf.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:53:51,DNS_TEXT,sfp_dnsraw,tlbcrvdejqo.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:53:54,DNS_TEXT,sfp_dnsraw,dcdqfoarb.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:53:57,DNS_TEXT,sfp_dnsraw,mdvxrnwrnv.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:54:02,DNS_TEXT,sfp_dnsraw,tekwkukwhyr.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:54:45,DNS_TEXT,sfp_dnsraw,rjlebnzagh.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:55:03,DNS_TEXT,sfp_dnsraw,lncziyuyaflh.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-04 16:55:46,DNS_TEXT,sfp_dnsraw,qlvdnyfnxb.dv.rt.ru,0,v=spf1 mx ip4:212.122.5.140 ip4:87.226.249.41 ip4:87.226.159.121 ip4:87.226.249.47 ip4:87.226.159.120 include:rt.ru -all
+2022-11-05 15:59:43,DNS_TEXT,sfp_dnsraw,ural.rt.ru,0,v=spf1 mx ip4:90.150.3.102 ip4:90.150.3.103 ip4:188.17.145.93 ip4:90.151.166.217 include:rt.ru -all
+2022-11-04 16:20:11,DNS_TEXT,sfp_dnsraw,gorny.ru,0,v=spf1 redirect=_spf.gorny.ru
+2022-11-04 11:29:36,DNS_TEXT,sfp_dnsraw,a-3.ru,0,vssbz488hnkl3x7n6643c6zxn0qyx479
+2022-11-04 19:21:25,DNS_TEXT,sfp_dnsraw,edu.cloud.rt.ru,0,yandex-verification:

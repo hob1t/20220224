@@ -1,0 +1,96 @@
+Updated,Type,Module,Source,F/P,Data
+2022-11-03 23:14:32,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,mrm.cloud.rt.ru,0,CleanBrowsing DNS - Adult [mrm.cloud.rt.ru]
+2022-11-07 09:14:28,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,rtlife.rt.ru,0,CleanBrowsing DNS - Adult [rtlife.rt.ru]
+2022-11-09 11:57:30,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,broadband-178-140-24-199.ip.moscow.rt.ru,0,CleanBrowsing DNS - Family [broadband-178-140-24-199.ip.moscow.rt.ru]
+2022-11-09 15:37:07,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,broadband-5-228-226-44.ip.moscow.rt.ru,0,CleanBrowsing DNS - Family [broadband-5-228-226-44.ip.moscow.rt.ru]
+2022-11-03 16:30:01,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,broadband-77-37-162-177.ip.moscow.rt.ru,0,CleanBrowsing DNS - Family [broadband-77-37-162-177.ip.moscow.rt.ru]
+2022-11-05 23:54:34,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,broadband-77-37-162-194.ip.moscow.rt.ru,0,CleanBrowsing DNS - Family [broadband-77-37-162-194.ip.moscow.rt.ru]
+2022-11-06 01:02:58,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,broadband-77-37-162-196.ip.moscow.rt.ru,0,CleanBrowsing DNS - Family [broadband-77-37-162-196.ip.moscow.rt.ru]
+2022-11-06 03:50:47,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,broadband-77-37-162-204.ip.moscow.rt.ru,0,CleanBrowsing DNS - Family [broadband-77-37-162-204.ip.moscow.rt.ru]
+2022-11-03 20:21:22,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,broadband-95-84-198-34.ip.moscow.rt.ru,0,CleanBrowsing DNS - Family [broadband-95-84-198-34.ip.moscow.rt.ru]
+2022-11-05 09:03:29,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,chat.cik.rt.ru,0,CleanBrowsing DNS - Family [chat.cik.rt.ru]
+2022-11-03 23:06:16,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,club.rt.ru,0,CleanBrowsing DNS - Family [club.rt.ru]
+2022-11-07 07:48:37,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,cnt-odcv-itv03.svc.iptv.rt.ru,0,CleanBrowsing DNS - Family [cnt-odcv-itv03.svc.iptv.rt.ru]
+2022-11-04 11:25:57,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,di-4495-argus-disp.api.test.di.rt.ru,0,CleanBrowsing DNS - Family [di-4495-argus-disp.api.test.di.rt.ru]
+2022-11-02 22:38:48,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,di-south-s1.api.test.di.rt.ru,0,CleanBrowsing DNS - Family [di-south-s1.api.test.di.rt.ru]
+2022-11-07 09:18:16,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,hrserv.rt.ru,0,CleanBrowsing DNS - Family [hrserv.rt.ru]
+2022-11-05 12:32:43,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,ip-195.22.152-22.rt.ru,0,CleanBrowsing DNS - Family [ip-195.22.152-22.rt.ru]
+2022-11-04 02:09:05,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,lk-dev.wifi.rt.ru,0,CleanBrowsing DNS - Family [lk-dev.wifi.rt.ru]
+2022-11-05 10:00:34,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,s8.rt.ru,0,CleanBrowsing DNS - Family [s8.rt.ru]
+2022-11-07 07:38:37,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,smi2012.rt.ru,0,CleanBrowsing DNS - Family [smi2012.rt.ru]
+2022-11-07 07:38:11,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,smi2013.rt.ru,0,CleanBrowsing DNS - Family [smi2013.rt.ru]
+2022-11-05 03:31:40,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,www.cloud.soib.rt.ru,0,CleanBrowsing DNS - Family [www.cloud.soib.rt.ru]
+2022-11-07 08:59:35,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,www.portal.rt.ru,0,CleanBrowsing DNS - Family [www.portal.rt.ru]
+2022-11-05 08:17:05,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,broadband-37-110-74-176.ip.moscow.rt.ru,0,CleanBrowsing DNS - Security [broadband-37-110-74-176.ip.moscow.rt.ru]
+2022-11-09 15:36:46,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,broadband-5-228-226-43.ip.moscow.rt.ru,0,CleanBrowsing DNS - Security [broadband-5-228-226-43.ip.moscow.rt.ru]
+2022-11-03 23:04:09,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,corpuniver-upd.rt.ru,0,CleanBrowsing DNS - Security [corpuniver-upd.rt.ru]
+2022-11-05 18:05:10,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,l.rt.ru,0,CleanBrowsing DNS - Security [l.rt.ru]
+2022-11-04 05:52:19,BLACKLISTED_INTERNET_NAME,sfp_cleanbrowsing,wifi.rt.ru,0,CleanBrowsing DNS - Security [wifi.rt.ru]
+2022-11-05 00:20:40,BLACKLISTED_INTERNET_NAME,sfp_comodo,admin006.trust-p1.cloud.rt.ru,0,Comodo Secure DNS [admin006.trust-p1.cloud.rt.ru]
+2022-11-05 06:21:48,BLACKLISTED_INTERNET_NAME,sfp_comodo,barnaul2.speedtest.rt.ru,0,Comodo Secure DNS [barnaul2.speedtest.rt.ru]
+2022-11-02 20:42:32,BLACKLISTED_INTERNET_NAME,sfp_comodo,bbn.89-184-250-230.rt.ru,0,Comodo Secure DNS [bbn.89-184-250-230.rt.ru]
+2022-11-05 10:02:19,BLACKLISTED_INTERNET_NAME,sfp_comodo,bbn.89-184-253-0.rt.ru,0,Comodo Secure DNS [bbn.89-184-253-0.rt.ru]
+2022-11-05 19:53:49,BLACKLISTED_INTERNET_NAME,sfp_comodo,broadband-5-228-169-27.ip.moscow.rt.ru,0,Comodo Secure DNS [broadband-5-228-169-27.ip.moscow.rt.ru]
+2022-11-09 15:25:03,BLACKLISTED_INTERNET_NAME,sfp_comodo,broadband-5-228-226-36.ip.moscow.rt.ru,0,Comodo Secure DNS [broadband-5-228-226-36.ip.moscow.rt.ru]
+2022-11-09 19:41:07,BLACKLISTED_INTERNET_NAME,sfp_comodo,broadband-77-37-128-129.ip.moscow.rt.ru,0,Comodo Secure DNS [broadband-77-37-128-129.ip.moscow.rt.ru]
+2022-11-09 19:14:21,BLACKLISTED_INTERNET_NAME,sfp_comodo,broadband-77-37-128-213.ip.moscow.rt.ru,0,Comodo Secure DNS [broadband-77-37-128-213.ip.moscow.rt.ru]
+2022-11-09 19:18:28,BLACKLISTED_INTERNET_NAME,sfp_comodo,broadband-77-37-128-243.ip.moscow.rt.ru,0,Comodo Secure DNS [broadband-77-37-128-243.ip.moscow.rt.ru]
+2022-11-09 19:19:00,BLACKLISTED_INTERNET_NAME,sfp_comodo,broadband-77-37-128-247.ip.moscow.rt.ru,0,Comodo Secure DNS [broadband-77-37-128-247.ip.moscow.rt.ru]
+2022-11-03 20:10:20,BLACKLISTED_INTERNET_NAME,sfp_comodo,broadband-77-37-206-154.ip.moscow.rt.ru,0,Comodo Secure DNS [broadband-77-37-206-154.ip.moscow.rt.ru]
+2022-11-03 18:13:04,BLACKLISTED_INTERNET_NAME,sfp_comodo,broadband-95-84-198-34.ip.moscow.rt.ru,0,Comodo Secure DNS [broadband-95-84-198-34.ip.moscow.rt.ru]
+2022-11-05 02:25:52,BLACKLISTED_INTERNET_NAME,sfp_comodo,bryansk2.speedtest.rt.ru,0,Comodo Secure DNS [bryansk2.speedtest.rt.ru]
+2022-11-05 08:13:46,BLACKLISTED_INTERNET_NAME,sfp_comodo,cherkessk.rt.ru,0,Comodo Secure DNS [cherkessk.rt.ru]
+2022-11-02 22:43:56,BLACKLISTED_INTERNET_NAME,sfp_comodo,di-3823-fix-photo.api.test.di.rt.ru,0,Comodo Secure DNS [di-3823-fix-photo.api.test.di.rt.ru]
+2022-11-03 17:13:08,BLACKLISTED_INTERNET_NAME,sfp_comodo,di-4028-siberia-credentials.api.test.di.rt.ru,0,Comodo Secure DNS [di-4028-siberia-credentials.api.test.di.rt.ru]
+2022-11-05 09:00:29,BLACKLISTED_INTERNET_NAME,sfp_comodo,hstage.cloud.rt.ru,0,Comodo Secure DNS [hstage.cloud.rt.ru]
+2022-11-04 07:29:42,BLACKLISTED_INTERNET_NAME,sfp_comodo,imba-3.rt.ru,0,Comodo Secure DNS [imba-3.rt.ru]
+2022-11-05 10:28:53,BLACKLISTED_INTERNET_NAME,sfp_comodo,ip-118-07-283-32.rt.ru,0,Comodo Secure DNS [ip-118-07-283-32.rt.ru]
+2022-11-03 22:57:49,BLACKLISTED_INTERNET_NAME,sfp_comodo,meet.volga.rt.ru,0,Comodo Secure DNS [meet.volga.rt.ru]
+2022-11-05 00:22:07,BLACKLISTED_INTERNET_NAME,sfp_comodo,ns2.gslb.cloud.rt.ru,0,Comodo Secure DNS [ns2.gslb.cloud.rt.ru]
+2022-11-03 23:09:49,BLACKLISTED_INTERNET_NAME,sfp_comodo,promenad.dev.digital.rt.ru,0,Comodo Secure DNS [promenad.dev.digital.rt.ru]
+2022-11-05 20:51:26,BLACKLISTED_INTERNET_NAME,sfp_comodo,relay02.smarthome.rt.ru,0,Comodo Secure DNS [relay02.smarthome.rt.ru]
+2022-11-02 19:38:41,BLACKLISTED_INTERNET_NAME,sfp_comodo,rt.ru,0,Comodo Secure DNS [rt.ru]
+2022-11-05 00:11:37,BLACKLISTED_INTERNET_NAME,sfp_comodo,s3.ds.edu.cloud.rt.ru,0,Comodo Secure DNS [s3.ds.edu.cloud.rt.ru]
+2022-11-05 19:37:37,BLACKLISTED_INTERNET_NAME,sfp_comodo,sip.ural.rt.ru,0,Comodo Secure DNS [sip.ural.rt.ru]
+2022-11-03 22:15:58,BLACKLISTED_INTERNET_NAME,sfp_comodo,vcd4.cloud.rt.ru,0,Comodo Secure DNS [vcd4.cloud.rt.ru]
+2022-11-04 07:39:59,BLACKLISTED_INTERNET_NAME,sfp_comodo,zayavka.rt.ru,0,Comodo Secure DNS [zayavka.rt.ru]
+2022-11-05 22:05:48,BLACKLISTED_INTERNET_NAME,sfp_dns_for_family,adengine.rt.ru,0,DNS for Family [adengine.rt.ru]
+2022-11-04 14:56:39,BLACKLISTED_INTERNET_NAME,sfp_dns_for_family,server26.hosting.reg.ru,0,DNS for Family [server26.hosting.reg.ru]
+2022-11-04 23:57:04,BLACKLISTED_INTERNET_NAME,sfp_quad9,b-internet.212.20.4.177.nsk.rt.ru,0,"Quad9 [b-internet.212.20.4.177.nsk.rt.ru]
+https://quad9.net/result/?url=b-internet.212.20.4.177.nsk.rt.ru"
+2022-11-04 23:57:46,BLACKLISTED_INTERNET_NAME,sfp_quad9,b-internet.212.20.7.40.nsk.rt.ru,0,"Quad9 [b-internet.212.20.7.40.nsk.rt.ru]
+https://quad9.net/result/?url=b-internet.212.20.7.40.nsk.rt.ru"
+2022-11-09 12:40:22,BLACKLISTED_INTERNET_NAME,sfp_quad9,broadband-178-140-24-204.ip.moscow.rt.ru,0,"Quad9 [broadband-178-140-24-204.ip.moscow.rt.ru]
+https://quad9.net/result/?url=broadband-178-140-24-204.ip.moscow.rt.ru"
+2022-11-02 23:12:04,BLACKLISTED_INTERNET_NAME,sfp_quad9,broadband-77-37-162-17.ip.moscow.rt.ru,0,"Quad9 [broadband-77-37-162-17.ip.moscow.rt.ru]
+https://quad9.net/result/?url=broadband-77-37-162-17.ip.moscow.rt.ru"
+2022-11-06 02:09:57,BLACKLISTED_INTERNET_NAME,sfp_quad9,broadband-77-37-162-28.ip.moscow.rt.ru,0,"Quad9 [broadband-77-37-162-28.ip.moscow.rt.ru]
+https://quad9.net/result/?url=broadband-77-37-162-28.ip.moscow.rt.ru"
+2022-11-03 19:19:30,BLACKLISTED_INTERNET_NAME,sfp_quad9,broadband-77-37-206-154.ip.moscow.rt.ru,0,"Quad9 [broadband-77-37-206-154.ip.moscow.rt.ru]
+https://quad9.net/result/?url=broadband-77-37-206-154.ip.moscow.rt.ru"
+2022-11-03 22:46:33,BLACKLISTED_INTERNET_NAME,sfp_quad9,di-4276-refactoring.api.test.di.rt.ru,0,"Quad9 [di-4276-refactoring.api.test.di.rt.ru]
+https://quad9.net/result/?url=di-4276-refactoring.api.test.di.rt.ru"
+2022-11-04 11:13:34,BLACKLISTED_INTERNET_NAME,sfp_quad9,dmh-api.inkey.rt.ru,0,"Quad9 [dmh-api.inkey.rt.ru]
+https://quad9.net/result/?url=dmh-api.inkey.rt.ru"
+2022-11-07 09:19:57,BLACKLISTED_INTERNET_NAME,sfp_quad9,hrserv.rt.ru,0,"Quad9 [hrserv.rt.ru]
+https://quad9.net/result/?url=hrserv.rt.ru"
+2022-11-04 10:20:11,BLACKLISTED_INTERNET_NAME,sfp_quad9,key-card.rt.ru,0,"Quad9 [key-card.rt.ru]
+https://quad9.net/result/?url=key-card.rt.ru"
+2022-11-04 00:20:14,BLACKLISTED_INTERNET_NAME,sfp_quad9,lk-dev.wifi.rt.ru,0,"Quad9 [lk-dev.wifi.rt.ru]
+https://quad9.net/result/?url=lk-dev.wifi.rt.ru"
+2022-11-05 00:21:55,BLACKLISTED_INTERNET_NAME,sfp_quad9,ns2.gslb.cloud.rt.ru,0,"Quad9 [ns2.gslb.cloud.rt.ru]
+https://quad9.net/result/?url=ns2.gslb.cloud.rt.ru"
+2022-11-07 10:31:03,BLACKLISTED_INTERNET_NAME,sfp_quad9,rtlife.soib.rt.ru,0,"Quad9 [rtlife.soib.rt.ru]
+https://quad9.net/result/?url=rtlife.soib.rt.ru"
+2022-11-03 06:12:31,BLACKLISTED_INTERNET_NAME,sfp_quad9,sipfed.nw.rt.ru,0,"Quad9 [sipfed.nw.rt.ru]
+https://quad9.net/result/?url=sipfed.nw.rt.ru"
+2022-11-05 05:13:48,BLACKLISTED_INTERNET_NAME,sfp_quad9,smolensk2.speedtest.rt.ru,0,"Quad9 [smolensk2.speedtest.rt.ru]
+https://quad9.net/result/?url=smolensk2.speedtest.rt.ru"
+2022-11-03 21:20:06,BLACKLISTED_INTERNET_NAME,sfp_quad9,stage.calc.myhome.nw.rt.ru,0,"Quad9 [stage.calc.myhome.nw.rt.ru]
+https://quad9.net/result/?url=stage.calc.myhome.nw.rt.ru"
+2022-11-03 23:29:20,BLACKLISTED_INTERNET_NAME,sfp_quad9,www.cloud.rt.ru,0,"Quad9 [www.cloud.rt.ru]
+https://quad9.net/result/?url=www.cloud.rt.ru"
+2022-11-03 23:57:14,BLACKLISTED_INTERNET_NAME,sfp_quad9,www.intercom.dv.rt.ru,0,"Quad9 [www.intercom.dv.rt.ru]
+https://quad9.net/result/?url=www.intercom.dv.rt.ru"
+2022-11-05 22:05:41,BLACKLISTED_INTERNET_NAME,sfp_stevenblack_hosts,adengine.rt.ru,0,"Steven Black Hosts Blocklist [adengine.rt.ru]
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts"
