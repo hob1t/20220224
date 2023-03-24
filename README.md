@@ -55,6 +55,8 @@ cat bcs_ru_ipv6_no_dups.txt | xargs nmap -Pn --script http-slowloris-check -6
 ```
 
 
+Usefull links
 
+[Nuclei](https://github.com/projectdiscovery/nuclei)
 
 
