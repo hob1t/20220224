@@ -1,0 +1,56 @@
+Binary file ./PENTESTING-BIBLE-master/latest_articles/CLONE ANY WEBSITE WITH HTTRACK.pdf matches
+Binary file ./PENTESTING-BIBLE-master/latest_articles/today/CRACK WINDOWS PASSWORD WITH JOHN THE RIPPER.pdf matches
+Binary file ./PENTESTING-BIBLE-master/latest_articles/today/CREATE YOUR OWN BOTNET (STEP BY STEP TUTORIAL).pdf matches
+Binary file ./PENTESTING-BIBLE-master/latest_articles/today/Footprinting a target with datasploit.pdf matches
+Binary file ./PENTESTING-BIBLE-master/latest_articles/FIND ANY EXPLOIT WITH ONE COMMAND.pdf matches
+Binary file ./PENTESTING-BIBLE-master/5-part-100-article/new/huge list of pentest tookit.pdf matches
+Binary file ./PENTESTING-BIBLE-master/5-part-100-article/new/Open Source Intelligence (OSINT) Tools & Resources .pdf matches
+Binary file ./PENTESTING-BIBLE-master/5-part-100-article/new/Information Security Professional (CISSP Preparation).pdf matches
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:543:"crunchyroll" login_id?id= site:jobs
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:601:crunchyroll / jango / ?php= + site:prof
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:966:crunchyroll .php?id = site:vodka
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:998:crunchyroll / earbits / ?php= + site:training
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:1244:flac / crunchyroll / ?php= + site:support
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:2126:crunchyroll .php?avd = site:party
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:2711:"crunchyroll" + "ZuneMarketplace" / ?php=coID + site:pg
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:2740:crunchyroll / xboxmusic / ?php= + site:republican
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:2773:"crunchyroll" include?id= site:university
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:3553:"crunchyroll" + "Simfy" / ?php=product_id + site:reviews
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:4610:crunchyroll / php?coID= site:li
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:4720:allintext: ".vu" + "crunchyroll"
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:5447:"apple" + "crunchyroll" / ?php=login_id + site:guru
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:5990:crunchyroll //php= + site:esq
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:7126:location: ".nz" + "crunchyroll"
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:7507:crunchyroll //php= + site:education
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:8485:"crunchyroll" + "blinkboxmusic" / ?php=category + site:pa
+./PENTESTING-BIBLE-master/5-part-100-article/hq_paid_dorks_mixed_gaming_lol_steam_..music_shoping.txt:8986:crunchyroll / tidal / ?php= + site:gd
+Binary file ./PENTESTING-BIBLE-master/1-part-100-article/A curated list of amazingly awesome OSINT.pdf matches
+Binary file ./PENTESTING-BIBLE-master/1-part-100-article/6 Ways to Hack VNC Login Password.pdf matches
+Binary file ./PENTESTING-BIBLE-master/MR. ROBOT 1 – CAPTURE THE FLAG CHALLENGE, WALK THROUGH.pdf matches
+Binary file ./PENTESTING-BIBLE-master/4-part-100-article/Find Details Of any Mobile Number, Email ID, IP Address in the world (Step By Step).pdf matches
+./PENTESTING-BIBLE-master/4-part-100-article/dorks_list_fresh_carding_2018.txt:7031:pandora / crunchyroll / ?php= + site:insure
+./PENTESTING-BIBLE-master/4-part-100-article/dorks_list_fresh_carding_2018.txt:7184:"iPod" + "crunchyroll" / ?php=include + site:navy
+Binary file ./PENTESTING-BIBLE-master/4-part-100-article/FIND HACKED EMAIL ADDRESSES.pdf matches
+Binary file ./PENTESTING-BIBLE-master/10-part-100-article/Windows Command Prompt cmd Cheat Sheet - The Hackr.pdf matches
+Binary file ./PENTESTING-BIBLE-master/7-part-100-article/Penetration Testing.pdf matches
+Binary file ./PENTESTING-BIBLE-master/7-part-100-article/new_articles/Hack Windows, Android, Mac using TheFatRat (Step by Step tutorial) matches
+Binary file ./PENTESTING-BIBLE-master/7-part-100-article/new_articles/MR. ROBOT 1 – CAPTURE THE FLAG CHALLENGE, WALK THROUGH matches
+./PENTESTING-BIBLE-master/7-part-100-article/oscp-survival-guide.txt:1963:        -   crunch 6 6 0123456789ABCDEF -o crunch1.txt
+./PENTESTING-BIBLE-master/7-part-100-article/oscp-survival-guide.txt:1965:        -   crunch 4 4 -f /usr/share/crunch/charset.lst mixalpha
+./PENTESTING-BIBLE-master/7-part-100-article/oscp-survival-guide.txt:1967:        -   crunch 8 8 -t ,@@^^%%%
+Binary file ./PENTESTING-BIBLE-master/7-part-100-article/OWASP_Top_10_-_2017_Release_Candidate1_English.pdf matches
+./PENTESTING-BIBLE-master/README.md:2527:http://www.hackingarticles.in/comprehensive-guide-to-crunch-tool
+Binary file ./PENTESTING-BIBLE-master/8-part-100-article/Nmap Scan with Timing Parameters.pdf matches
+Binary file ./PENTESTING-BIBLE-master/8-part-100-article/62_article/SSH Password Testing With Hydra on Kali Linux .pdf matches
+Binary file ./PENTESTING-BIBLE-master/8-part-100-article/62_article/Windows Command Prompt -cmd Cheat Sheet.pdf matches
+Binary file ./PENTESTING-BIBLE-master/8-part-100-article/62_article/List of some Penetration Testing Tools.pdf matches
+Binary file ./PENTESTING-BIBLE-master/new/Facebook Account Takeove.pdf matches
+Binary file ./PENTESTING-BIBLE-master/new/Bruteforce With Selenium, XXE Through Request Smuggling.pdf matches
+Binary file ./PENTESTING-BIBLE-master/new/Bug Bytes #67 – Hacking Containers, Auth0 Bypass & @Hussein98d’s Methodologies.pdf matches
+Binary file ./PENTESTING-BIBLE-master/3-part-100-article/Comprehensive Guide to Crunch Tool.pdf matches
+Binary file ./PENTESTING-BIBLE-master/6-part-100-article/Bug Hunting Methodology (part-1).pdf matches
+Binary file ./PENTESTING-BIBLE-master/6-part-100-article/Links for the OSINT Team.pdf matches
+Binary file ./PENTESTING-BIBLE-master/6-part-100-article/48_article/The Journey to Try Harder: TJnull’s Preparation Guide for PWK-OSCP.pdf matches
+./PENTESTING-BIBLE-master/9-part-100-article/sql_dorks_for_cc.txt:4266:captcrunch24 .php?panel = site:.ro
+Binary file ./PENTESTING-BIBLE-master/9-part-100-article/Static Analysis of Android Applications.pdf matches
+Binary file ./PENTESTING-BIBLE-master/2-part-100-article/new_articles/OSINT TOOLS A List of Open Source Verification and Investigation Tools and Methods .pdf matches

@@ -1,0 +1,4 @@
+Dahua country:<any_of_your_choice>
+RTSP/1.0 has_screenshot:true
+RTSP/1.0 has_screenshot:true country:"RU"
+

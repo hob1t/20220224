@@ -1,0 +1,5 @@
+Note: RTSP does not have lock ups
+
+camera_radar
+docker run ullaakut/cameradar -t <IP_of_your_camera>
+
