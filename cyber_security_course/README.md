@@ -59,67 +59,114 @@ Week 8: Unit 8 -  Bug Bounty Platforms & Reporting
  
 
 Learning Guide: The following is an outline of how this course will be conducted, with suggested best practices for students.
+
 Unit 1 – Introduction to Cyber Security
-●      Read through the Learning Guide and the Reading Assignment
+
+●     Read through the Learning Guide and the Reading Assignment
+
 ●      Complete the Discussion Assignment by posting in the Discussion Forum
-●      Respond to three of your fellow classmates’ posts in the Discussion Forum
-●      Complete and submit the Case Study/ Written Assignment
+
+●     Respond to three of your fellow classmates’ posts in the Discussion Forum
+
+●     Complete and submit the Case Study/ Written Assignment
+
 ●      Complete and submit the portfolio activity
  
 Unit 2 – Ethical Hacking & Cyber Security methodologies
-●      Peer-assess unit 1 Case Study/ Written Assignment
-●      Read through the Learning Guide and the Reading Assignment
-●      Complete the Discussion Assignment by posting in the Discussion Forum
-●      Respond to three of your fellow classmates’ posts in the Discussion Forum
-●      Complete and submit the Case Study/ Written Assignment
-●      Complete and submit the portfolio activity
+
+●     Peer-assess unit 1 Case Study/ Written Assignment
+
+●     Read through the Learning Guide and the Reading Assignment
+
+●     Complete the Discussion Assignment by posting in the Discussion Forum
+
+●     Respond to three of your fellow classmates’ posts in the Discussion Forum
+
+●     Complete and submit the Case Study/ Written Assignment
+
+●    Complete and submit the portfolio activity
  
 Unit 3 – Cyber Security Methodologies and setting up Lab for Cyber Security  
-●      Peer-assess unit 2 Case Study/ Written Assignment
-●       Read through the Learning Guide and the Reading Assignment
-●      Complete the Discussion Assignment by posting in the Discussion Forum
-●      Respond to three of your fellow classmates’ posts in the Discussion Forum
-●       Complete and submit the Case Study/ Written Assignment
-●      Complete and submit the portfolio activity
+
+●    Peer-assess unit 2 Case Study/ Written Assignment
+
+●    Read through the Learning Guide and the Reading Assignment
+
+●    CComplete the Discussion Assignment by posting in the Discussion Forum
+
+●    Respond to three of your fellow classmates’ posts in the Discussion Forum
+
+●    Complete and submit the Case Study/ Written Assignment
+
+●    Complete and submit the portfolio activity
 
 Unit 4 – Website Pentesting & Security
-●      Peer-assess unit 3 Case Study/ Written Assignment
-●      Read through the Learning Guide and the Reading Assignment
+
+●    Peer-assess unit 3 Case Study/ Written Assignment
+
+●    Read through the Learning Guide and the Reading Assignment
+
 ●      Complete the Discussion Assignment by posting in the Discussion Forum
+
 ●      Respond to three of your fellow classmates’ posts in the Discussion Forum
+
 ●      Complete and submit the Case Study/ Written Assignment
+
 ●      Complete and submit the portfolio activity
  
 Unit 5 – Mobile Pentesting & Wireless Security
-●      Peer-assess unit 4 Case Study/ Written Assignment
+
+●     Peer-assess unit 4 Case Study/ Written Assignment
+
 ●      Read through the Learning Guide and the Reading Assignment
+
 ●      Complete the Discussion Assignment by posting in the Discussion Forum
+
 ●      Respond to three of your fellow classmates’ posts in the Discussion Forum
+
 ●      Complete and submit the Case Study/ Written Assignment
+
 ●      Complete and submit the portfolio activity
  
 Unit 6:  Dark Web and Deep Web
-●      Peer-assess unit 5 Case Study/ Written Assignment
+
+●     Peer-assess unit 5 Case Study/ Written Assignment
+
 ●      Read through the Learning Guide and the Reading Assignment
+
 ●      Complete the Discussion Assignment by posting in the Discussion Forum
+
 ●      Respond to three of your fellow classmates’ posts in the Discussion Forum
+
 ●      Complete and submit the Case Study/ Written Assignment
+
 ●      Complete and submit the portfolio activity
  
 Unit 7:  Cyber Forensics
-●      Peer-assess unit 6 Case Study/ Written Assignment
+
+●     Peer-assess unit 6 Case Study/ Written Assignment
+
 ●      Read through the Learning Guide and the Reading Assignment
+
 ●      Complete the Discussion Assignment by posting in the Discussion Forum
+
 ●      Respond to three of your fellow classmates’ posts in the Discussion Forum
+
 ●      Complete and submit the Case Study/ Written Assignment
+
 ●      Complete and submit the portfolio activity
  
 Unit 8:  Bug Bounty Platforms & Reporting
-●      Peer-assess unit 7 Case Study/ Written Assignment
-●      Read through the Learning Guide and the Reading Assignment
-●      Complete the Discussion Assignment by posting in the Discussion Forum
+
+●     Peer-assess unit 7 Case Study/ Written Assignment
+
+●     Read through the Learning Guide and the Reading Assignment
+
+●     Complete the Discussion Assignment by posting in the Discussion Forum
+
 ●      Respond to three of your fellow classmates’ posts in the Discussion Forum
-●      Complete and submit the portfolio activity
+
+●     Complete and submit the portfolio activity
  
 
  
