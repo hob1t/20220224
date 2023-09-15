@@ -198,7 +198,27 @@ The Course Forum is the place to raise issues and questions relating to the cour
 course. While it is not required to participate in the Course Forum, it is highly recommended.
 
 
+### Let's continue ...
 
+#### Unit 2: Ethical Hacking and its Tools
+
+Topics:
+
+    Introduction to Ethical Hacking
+    Phases of Ethical Hacking
+    Metasploit Tool for Hacking
+    Social Engineering Tools
+    Kali Linux Overview
+
+
+Learning Objectives:
+
+
+By the end of this Unit, you will be able to:
+
+    Experiment with various exploits which are used for the Metasploit Hacking tool.
+    Evaluate the application of various social engineering tools.
+    Examine kali Linux Tools and techniques.
 
 
 
