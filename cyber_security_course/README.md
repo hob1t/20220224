@@ -221,8 +221,28 @@ By the end of this Unit, you will be able to:
     Examine kali Linux Tools and techniques.
 
 
+**Reconnaissance**
+
+Reconnaissance is a military concept that refers to deliberately seeking out an enemy's objectives by capturing and gathering information about the enemy's composition and capabilities 
+through close observation, typically by scouts or military intelligence personnel trained in surveillance. Reconnaissance refers to the method of collecting knowledge in the context of 
+ethical hacking. Reconnaissance is a catchall term for watching the hacking target and gathering information about how, when, and where they do things. An intruder may find and manipulate 
+a loophole by detecting behaviors in people or systems.
+
+
+**Metasploit Tool for Hacking**
+
+The Metasploit platform is a valuable weapon that cybercriminals and ethical hackers will use to investigate systemic flaws on networks and servers. It can be quickly configured and used 
+for most operating systems because it is an open-source platform.
+
+The pen testing team will use Metasploit to inject ready-made or custom code into a network to look for flaws. When vulnerabilities have been found and reported, the details can be used to 
+correct structural deficiencies and prioritize solutions, which is another type of threat detection.
+
+
 
 #### Useful links
 
 [Lifecycle of Cyber Attack](https://scottc130.medium.com/the-phases-of-ethical-hacking-c1ecb60f6ddc)
+
+[Ethical Hacking and its Methodology](https://medium.com/@DianApps/ethical-hacking-and-its-methodology-41468bc2ea67)
+
 
