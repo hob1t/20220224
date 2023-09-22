@@ -106,9 +106,9 @@ Unit 4 – Website Pentesting & Security
 
 ●    Read through the Learning Guide and the Reading Assignment
 
-●      Complete the Discussion Assignment by posting in the Discussion Forum
+●    Complete the Discussion Assignment by posting in the Discussion Forum
 
-●      Respond to three of your fellow classmates’ posts in the Discussion Forum
+●    Respond to three of your fellow classmates’ posts in the Discussion Forum
 
 ●      Complete and submit the Case Study/ Written Assignment
 
@@ -116,23 +116,23 @@ Unit 4 – Website Pentesting & Security
  
 Unit 5 – Mobile Pentesting & Wireless Security
 
-●     Peer-assess unit 4 Case Study/ Written Assignment
+●   Peer-assess unit 4 Case Study/ Written Assignment
 
-●      Read through the Learning Guide and the Reading Assignment
+●   Read through the Learning Guide and the Reading Assignment
 
-●      Complete the Discussion Assignment by posting in the Discussion Forum
+●   Complete the Discussion Assignment by posting in the Discussion Forum
 
-●      Respond to three of your fellow classmates’ posts in the Discussion Forum
+●   Respond to three of your fellow classmates’ posts in the Discussion Forum
 
-●      Complete and submit the Case Study/ Written Assignment
+●   CComplete and submit the Case Study/ Written Assignment
 
-●      Complete and submit the portfolio activity
+●   Complete and submit the portfolio activity
  
 Unit 6:  Dark Web and Deep Web
 
-●     Peer-assess unit 5 Case Study/ Written Assignment
+●   Peer-assess unit 5 Case Study/ Written Assignment
 
-●      Read through the Learning Guide and the Reading Assignment
+●   Read through the Learning Guide and the Reading Assignment
 
 ●      Complete the Discussion Assignment by posting in the Discussion Forum
 
@@ -238,6 +238,14 @@ The pen testing team will use Metasploit to inject ready-made or custom code int
 correct structural deficiencies and prioritize solutions, which is another type of threat detection.
 
 
+**Social Engineering Tools**
+
+The Social-Engineer Toolkit (SET) is a set of tools intended to carry out sophisticated attacks on people. SET was created to coincide with the introduction of 
+[social-engineer.org](https://www.social-engineer.org) and has rapidly become a regular tool in the box of penetration testers. David Kennedy (2011) wrote the Suite, and with a lot of 
+input from the 
+internet, it now includes threats that have never been used before in an exploitation toolset. The toolkit's attacks are intended to be coordinated and concentrated attacks on a specific individual or 
+entity during a penetration test.
+
 
 #### Useful links
 
@@ -245,4 +253,7 @@ correct structural deficiencies and prioritize solutions, which is another type 
 
 [Ethical Hacking and its Methodology](https://medium.com/@DianApps/ethical-hacking-and-its-methodology-41468bc2ea67)
 
+[BEEF](https://www.youtube.com/watch?v=J2J7uFZnG5E)
+
+[Firewals](http://iar.cs.unm.edu/~forrest/publications/firewalls-05.pdf)
 
