@@ -31,3 +31,6 @@ Resources
 
     Simplilearn. (2021, August 3). What is a firewall? | firewall explained | firewall tutorial | network security | simplilearn [Video]. YouTube. https://www.youtube.com/watch?v=9GZlVOafYTg
 
+    [Intro to virtualization](https://medium.com/@rohithaelsa/an-introducton-to-virtualization-b67a58bee4e8)
+
+    [Virtualization, Containers and Microservices](https://medium.com/@pratyush.choudhury.bme16/fundamentals-of-enterprise-computing-virtualization-containers-and-microservices-4dfea6e645f2)
