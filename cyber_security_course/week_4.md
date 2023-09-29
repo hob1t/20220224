@@ -60,3 +60,24 @@ Resources
 [WebConcepts. (2020, October 5). Web server concepts and examples [Video]. YouTube.](https://www.youtube.com/watch?v=9J1nJOivdyw)
 
 
+## Section 2
+**Domain, HTTP, DNS, URL**
+
+The domain name of your website is the address that users type into the URL bar of their browser to enter it. To put it another way, if your website were a building, your domain name would be the 
+address.
+
+The Hypertext Transfer Protocol is used to load pages on the Internet using hyperlinks.
+
+Are domain names identical to URLs? To everyone's surprise, the answer is no. However, as words are so interchangeable, it is understandable for people to confuse them. However, there is a 
+distinction to be made.
+
+
+Resources
+
+* [Gupta, G. (2019, September 8). How DNS (domain name system) works and queries get resolved. Medium.] 
+(https://kumargaurav1247.medium.com/how-does-dns-domain-name-system-query-gets-resolved-137a9e445ad8)
+    
+* [ITdvds. (2017, August 11). Understanding how DNS works in depth [Video]. YouTube.] (https://www.youtube.com/watch?v=T-eghY-9WdE)
+
+* [Lanza, N. T. (2018, August 10). Anatomy of a URL and the DNS process. Medium.] (https://nickolasteixeira.medium.com/anatomy-of-a-url-and-the-dns-process-1c200d306fdf)
+
