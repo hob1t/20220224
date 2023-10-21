@@ -74,3 +74,85 @@ Resources
 
     K, A. (2021, January 11). 12. cyber forensics - forensics investigation using encase - anand k [Video]. YouTube. https://www.youtube.com/watch?v=U-wHMu7ZrQg
 
+
+#### Forensic Imaging
+
+Protecting the original data in compliance with industry guidelines and digital forensics best practices is the first step in any digital forensics investigation. This is accomplished by the creation of a forensic picture of the actual proof object.
+
+A forensic image is a detailed first-hand copy of any computer storage device, files, folders, and various unallocated spaces with the operating system. Forensic images include not only the visible files in the operating system but also the deleted files and other pieces of evidence left in the free spaces.
+
+
+#### Reading Assignments
+
+Learn more by reading and viewing the following references:
+
+Read 
+
+    How to Create a Forensic Image with FTK Imager
+
+Watch 
+
+    Digital Forensics with Kali Linux : Introduction to Forensic Imaging
+    Disk Imaging for Digital Forensics
+
+Resources
+
+    CNN. (2017, June 20). A forensic imaging technique solves a 30-year-old murder ...[Video]. YouTube. https://www.youtube.com/watch?v=rOugf2dpo0k
+    Frauenhoffer, M. (2018, December 12). How to create a forensic image with FTK imager - michael frauenhoffer. Medium. https://medium.com/@Frauenhoffer/how-to-create-a-forensic-image-with-ftk-imager-6fb8ee07fb2d
+    Murphy, M. (2019, October 22). Disk imaging for digital forensics [Video]. YouTube.     https://www.youtube.com/watch?v=eoscb7b-4FE
+    Packt Video. (2017, July 11). Digital forensics with kali Linux : Introduction to forensic imaging | packtpub.com [Video]. YouTube. https://www.youtube.com/watch?v=QjVzLRBuR7c
+
+
+####Anti-Forensics Techniques & Detection
+
+Anti-forensics (AF) tools disrupt Computer Forensic Tools (CFTs) by deleting or altering data by hiding appropriate details.  Most of the Anti-forensic tools used are directly against digital forensics that is used for overwriting information and leaving footprints on the suspected system. Such footprints eventually become more challenging during forensic analysis. Thus, leaving the “tracer” data leading to CFTs being unreliable.
+
+
+#### Reading Assignments
+
+Learn more by reading and viewing the following references:
+
+Read 
+
+    6 Anti-forensic techniques that every cyber investigator dreads
+
+Watch 
+
+    Hiding Process Memory via Anti Forensic Techniques
+    Best digital forensics | computer forensics| cyber forensic free tools
+
+Resources
+
+    DFRWS. (2020, October 26). Hiding process memory via anti forensic techniques - DFRWS USA 2020 [Video]. YouTube. https://www.youtube.com/watch?v=i5po8REiFXw
+    6 anti-forensic techniques that every cyber investigator dreads | EC-council official blog – EC – council blog. (2019, December 11). Android Full Encryption. https://blog.eccouncil.org/6-anti-forensic-techniques-that-every-cyber-investigator-dreads/
+    Information Security Newspaper. (2020, May 19). Best digital forensics | computer forensics| cyber forensic free tools [Video]. YouTube.  https://www.youtube.com/watch?v=QQ9ZLlj36qs
+    Sandfly Security (2019, February 9). Why you should be looking for Linux anti-forensics. [Video]. YouTube. https://www.youtube.com/watch?v=GkccP9LVj74&t=28s
+
+#### Forensic Imaging
+
+Protecting the original data in compliance with industry guidelines and digital forensics best practices is the first step in any digital forensics investigation. This is accomplished by the creation of a forensic picture of the actual proof object.
+
+A forensic image is a detailed first-hand copy of any computer storage device, files, folders, and various unallocated spaces with the operating system. Forensic images include not only the visible files in the operating system but also the deleted files and other pieces of evidence left in the free spaces.
+
+Reading Assignments
+
+Learn more by reading and viewing the following references:
+
+Read 
+
+    How to Create a Forensic Image with FTK Imager
+
+Watch 
+
+    Digital Forensics with Kali Linux : Introduction to Forensic Imaging
+    Disk Imaging for Digital Forensics
+
+Resources
+
+[CNN. (2017, June 20). A forensic imaging technique solves a 30-year-old murder ...[Video]. YouTube.] (https://www.youtube.com/watch?v=rOugf2dpo0k)
+
+[Frauenhoffer, M. (2018, December 12). How to create a forensic image with FTK imager - michael frauenhoffer. Medium.] (https://medium.com/@Frauenhoffer/how-to-create-a-forensic-image-with-ftk-imager-6fb8ee07fb2d)
+
+[Murphy, M. (2019, October 22). Disk imaging for digital forensics [Video]. YouTube.](https://www.youtube.com/watch?v=eoscb7b-4FE)
+
+[Packt Video. (2017, July 11). Digital forensics with kali Linux : Introduction to forensic imaging | packtpub.com [Video]. YouTube.](https://www.youtube.com/watch?v=QjVzLRBuR7c)
